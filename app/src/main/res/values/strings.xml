@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Secure_contact</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_here">Login Here</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="logout">Logout</string>
+    <string name="if_already_have_account">If Already Have Account</string>
+    <string name="submit">Submit</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="Contact_name">Contact_name</string>
+    <string name="user">User</string>
+</resources>
